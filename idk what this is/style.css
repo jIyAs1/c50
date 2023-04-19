@@ -1,0 +1,20 @@
+
+
+        #name{
+            color:aquamarine;
+            background-color:lightsalmon;
+            text-align: center;
+
+        }
+
+        .intro{
+            color:aliceblue;
+            background-color: lightgoldenrodyellow;
+            text-align: left;
+        }
+
+        #games{
+            display:flex;
+            background-color: lightseagreen;
+            justify-content: space-evenly;
+        }
